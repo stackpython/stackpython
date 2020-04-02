@@ -1,1 +1,1 @@
-# stackpython
+# Python Simple GUI
